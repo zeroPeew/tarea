@@ -1,0 +1,153 @@
+
+#principal
+{
+    width: 6000px;
+    height: 2000px;
+    background-color: aqua;
+    margin: 20px;
+}
+#uno{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    margin: 20px;
+    border-radius: 300px;
+    display: inline-block;
+    border: 20px solid black;
+    position: relative;
+    left: 250px;
+    position: fixed;
+    
+}
+#dos{
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    margin: 20px;
+    border-radius: 300px;
+    display: inline-block;
+    border: 20px solid black;
+    position: relative;
+    top: 150px;
+    position: fixed;
+}
+#tres{
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    margin: 20px;
+    border-radius: 300px;
+    display: inline-block;
+    border: 20px solid black;
+    position: relative;
+    right: 250px;
+    position: fixed;
+
+}
+
+#sombreroo{
+    position: relative;
+    left: 50px;
+    bottom: 200px;
+    
+}
+
+#sombrero{
+    width: 100px;
+    height: 80px;
+    background-color: black;
+    position: relative;
+    left: 35px;
+
+}
+#sombrero1{
+    width: 170px;
+    height: 30px;
+    background-color: black;
+    position: relative;
+
+}
+#cara{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    position: relative;
+    left: 35px;
+    top: 97px;
+    border-radius: 200px;
+    position:relative;
+}
+#ojos{
+    position: relative;
+    top: 28px;
+}
+#left{
+    width: 50px;
+    height: 60px;
+    background-color: black;
+    position: relative;
+    left: 125px;
+    display: inline-block;
+    border-radius: 50px;
+   
+
+}
+#right{
+    width: 50px;
+    height: 60px;
+    background-color: black;
+    position: relative;
+    left: px;
+    display: inline-block;
+    border-radius: 50px;
+
+  
+}
+#pupila1{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+    left: 15px;
+}
+#pupila2{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+    left: 15px;
+}
+#nariz{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border: 6px solid black;
+    border-radius: 50px;
+    position: relative;
+    left: 80px;
+}
+#rojo{
+    width: 90px;
+    height: 40px;
+    background-color: red;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 65px;
+    position: relative;
+    bottom: 10px;
+    left: 60px;
+}
+#bocacentro{
+    width: 50px;
+    height: 5px;
+    background-color: white;
+    position: relative;
+    left: 20px;
+    bottom: 35px;
+    top: 15px;
+    border-radius: 60px;
+}
